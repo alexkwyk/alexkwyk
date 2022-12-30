@@ -1,7 +1,12 @@
 ### 👋 Hello, I’m Alexey
 ### 👨‍🎓Completed a frontend development course at [Hexlet School](https://hexlet.io)
-### 📫 How to reach me alexkwyk@gmail.com or [Telegram](https://t.me/alexkwyk)
-### Tech stack
+### 🚀 Looking for job
+### 📫 How to reach me:
+  * alexkwyk@gmail.com
+  * https://t.me/alexkwyk
+
+## Tech stack
+
 <div>
   <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />
@@ -12,10 +17,12 @@
   <img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />
-</div>  
+</div>
+<br>
 
-###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkwyk&show_icons=true&theme=transparent)
+
+![CodeWars Stats](https://www.codewars.com/users/alexkwyk/badges/large)
 
 <!---
 alexkwyk/alexkwyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -20,7 +20,7 @@
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkwyk&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexkwyk&show_icons=true&theme=transparent)
 
 ![CodeWars Stats](https://www.codewars.com/users/alexkwyk/badges/large)
 
